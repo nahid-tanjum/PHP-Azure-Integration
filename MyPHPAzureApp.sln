@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "MyPHPAzureApp", "MyPHPAzureApp.phpproj", "{E05BC0FD-BA36-4D6A-88E3-A97550DC2F9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19B2226E-99B0-4FD6-902C-A698496886AF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Desktop\Advanced Web Development\MyPhpAzureAppExternalCode\script.js = ..\..\..\..\OneDrive\Desktop\Advanced Web Development\MyPhpAzureAppExternalCode\script.js
+		..\..\..\..\OneDrive\Desktop\Advanced Web Development\MyPhpAzureAppExternalCode\index1.php = ..\..\..\..\OneDrive\Desktop\Advanced Web Development\MyPhpAzureAppExternalCode\index1.php
+		..\..\..\..\OneDrive\Desktop\Advanced Web Development\MyPhpAzureAppExternalCode\styles.css = ..\..\..\..\OneDrive\Desktop\Advanced Web Development\MyPhpAzureAppExternalCode\styles.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E05BC0FD-BA36-4D6A-88E3-A97550DC2F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05BC0FD-BA36-4D6A-88E3-A97550DC2F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05BC0FD-BA36-4D6A-88E3-A97550DC2F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05BC0FD-BA36-4D6A-88E3-A97550DC2F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BA1B2A-5A6C-47C7-B313-5B1786729705}
+	EndGlobalSection
+EndGlobal

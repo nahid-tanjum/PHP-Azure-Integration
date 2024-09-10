@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Excluded />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAESVYdEchs0yrvTgTP+d7ngAAAAACAAAAAAAQZgAAAAEAACAAAAAYBbv6+FOGfp3fpya22J3Epz69zP3cxyYNmEaRL8CpsgAAAAAOgAAAAAIAACAAAAAh/qQszOQXLi4XpGr+il7QXRPPbS611/THrR4yPKfJ1zAAAAAAUYTT7VJmtmRX/1DPwvad4sU/o9gxzvsW8HTe+4/NkS8vldUagzW7hMl/wVt27XBAAAAAQjiHmdsj0TkMYN+rqz5W+RAA07Ri2hHCYhnE3DOZ0pQXKb6MtjUMRyxl6uBg0rwqIgkbs5OdXZrMn2z8LlWSMA==</EncryptedPassword>
+  </PropertyGroup>
+</Project>

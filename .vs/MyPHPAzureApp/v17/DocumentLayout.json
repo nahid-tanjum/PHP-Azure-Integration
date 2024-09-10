@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nahid Tanjum\\source\\code\\MyPHPAzureApp\\MyPHPAzureApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahid Tanjum\\source\\code\\MyPHPAzureApp\\MyPHPAzureApp\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B2226E-99B0-4FD6-902C-A698496886AF}|Solution Items{19B2226E-99B0-4FD6-902C-A698496886AF}|C:\\Users\\Nahid Tanjum\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B2226E-99B0-4FD6-902C-A698496886AF}|Solution Items{19B2226E-99B0-4FD6-902C-A698496886AF}|C:\\Users\\Nahid Tanjum\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\index1.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\Users\\Nahid Tanjum\\source\\code\\MyPHPAzureApp\\MyPHPAzureApp\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\Users\\Nahid Tanjum\\source\\code\\MyPHPAzureApp\\MyPHPAzureApp\\index.php",
+              "RelativeToolTip": "index.php",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-23T15:03:36.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Nahid Tanjum\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\script.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\script.js",
+              "ToolTip": "C:\\Users\\Nahid Tanjum\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\script.js",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-22T17:43:15.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index1.php",
+              "DocumentMoniker": "C:\\Users\\Nahid Tanjum\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\index1.php",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\index1.php",
+              "ToolTip": "C:\\Users\\Nahid Tanjum\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\index1.php",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\Advanced Web Development\\MyPhpAzureAppExternalCode\\index1.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-22T17:38:22.915Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
